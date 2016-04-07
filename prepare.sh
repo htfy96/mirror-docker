@@ -13,4 +13,3 @@ docker run \
     -v /home/mirror-web/_site:/opt/_site:Z \
     sjtug/mirror-jekyll-builder:latest \
     jekyll build -d /opt/_site
-
